@@ -24,11 +24,9 @@ The ability to add additional development library paths to ``setup.py`` (e.g. 64
 
 A little over a year later on 2011-09-08, Takayuki Shimizukawa [6]_ uploaded the first Windows (win32) eggs. Since then, every Pillow release included Windows eggs thanks to Takayuki. And on 2013-02-02, the first 64-bit Windows eggs (amd64) were uploaded to PyPI by Takayuki.
 
-For the first 3 years, the fork focused on packaging fixes only. Now a Python 3 compatible pull request from Brian Crowell [7]_ has been merged, and the final stages of release preparation are underway.
+For the first 3 years, the fork focused on packaging fixes only. In 2013, a Python 3 compatible pull request from Brian Crowell [7]_ was merged and released as Pillow 2.0.0.
 
-In early 2013, Barry Warsaw created an Ubuntu Personal Package Archive and tested it with Python 3 [8]_. And the Fedora Project is now planning to include Pillow with their release of Fedora 19 [9]_.
-
-Finally, the Pillow project has promised a Python 3 compatible release of Pillow by PyCon 2013. Unfortunately as a volunteer, Alex Clark has been unable to allocate the time needed to properly complete the remaining critical tasks. Funding from the Python Software Foundation would help make it possible for him to do so [10]_.
+Shortly after the release of Pillow 2.0, Christoph Gohlke gave permission for the Pillow project to use his Unofficial Windows Binaries for Python Extension Packages. [8]_.
 
 Grant objective
 ---------------
@@ -59,3 +57,12 @@ And sent to::
     ACLARK.NET, LLC
     XXXX XXXXXXXX XX
     Bethesda, MD 20814
+
+.. [1] http://en.wikipedia.org/wiki/Python_Imaging_Library
+.. [2] Courtesy of http://pypi.python.org/pypi/vanity: Pillow has been downloaded 266,696 times!
+.. [3] The Python Wall of SuperPowers reports over 50% of popular packages have been ported: https://python3wos.appspot.com/.
+.. [4] http://dist.plone.org/thirdparty/PIL-1.1.7.tar.gz
+.. [5] http://mail.python.org/pipermail/image-sig/2010-July/006423.html
+.. [6] https://twitter.com/shimizukawa
+.. [7] https://github.com/fluggo
+.. [8] http://www.lfd.uci.edu/~gohlke/pythonlibs/
