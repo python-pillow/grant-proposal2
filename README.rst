@@ -33,6 +33,8 @@ Finally, the Pillow project has promised a Python 3 compatible release of Pillow
 Grant objective
 ---------------
 
+To fund, in advance, the renewal of python-pillow.org for the maximum length of time allowed by the registrar.
+
 Grant size
 ----------
 
@@ -54,4 +56,4 @@ And sent to::
 
     ACLARK.NET, LLC
     XXXX XXXXXXXX XX
-    Bethesda, MD 20817
+    Bethesda, MD 20814
