@@ -36,7 +36,7 @@ To fund, in advance, the renewal of python-pillow.org for the maximum length of 
 Grant size
 ----------
 
-$90 USD total 
+$91.44 USD total 
 
 .. image:: screenshot.png
 
