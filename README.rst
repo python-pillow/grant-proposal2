@@ -40,6 +40,8 @@ Grant size
 
 $90 USD total 
 
+.. image:: screenshot.png
+
 Grant beneficiaries
 -------------------
 
