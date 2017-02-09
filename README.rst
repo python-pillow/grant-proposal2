@@ -59,7 +59,7 @@ And sent to::
     Bethesda, MD 20814
 
 .. [1] http://en.wikipedia.org/wiki/Python_Imaging_Library
-.. [2] "Pillow has been downloaded 15,199,249 times!" Statistics by http://pypi.python.org/pypi/vanity.
+.. [2] "Pillow has been downloaded 15,199,249 times!" — Via http://pypi.python.org/pypi/vanity.
 .. [3] The Python Wall of SuperPowers reports over 50% of popular packages have been ported: https://python3wos.appspot.com/.
 .. [4] http://dist.plone.org/thirdparty/PIL-1.1.7.tar.gz
 .. [5] http://mail.python.org/pipermail/image-sig/2010-July/006423.html
