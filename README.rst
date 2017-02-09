@@ -11,9 +11,9 @@ Provide funding to renew python-pillow.org domain for maximum (allowed by direct
 Abstract
 ~~~~~~~~
 
-The Python Imaging Library is one of the oldest and most popular third party libraries available to Python programmers today. It adds support for opening, manipulating, and saving many different image file formats. [1]_
+The **Python Imaging Library** is one of the oldest and most popular third party libraries available to Python programmers today. It adds support for opening, manipulating, and saving many different image file formats. [1]_
 
-Pillow is a popular and well-maintained packaging fork of the Python Imaging Library. At the time of this writing it has been downloaded over a 15 million times from the Python Package Index [2]_ and is now included in major Linux distributions like Debian and Ubuntu [1]_.
+**Pillow** is a popular and well-maintained packaging fork of the Python Imaging Library. At the time of this writing it has been downloaded over a 15 million times from the Python Package Index [2]_ and is now included in major Linux distributions like Debian and Ubuntu [1]_.
 
 History
 ~~~~~~~
