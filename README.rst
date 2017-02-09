@@ -50,7 +50,7 @@ $91.44 USD total, based on registrar's shopping cart total:
 Grant beneficiaries
 -------------------
 
-ACLARK.NET, LLC is a team of professionals specializing in Python-based web applications & open source software and communities. Alex Clark is a self-employed Python Web Developer at ACLARK.NET, LLC. He is also the Pillow fork author and maintainer, and has contributed over 100 hours to Pillow development and maintenance.
+Most importantly, the Python community and Pillow users will be able to reach members of the Pillow team discretely via the `security@python-pillow.org <mailto:security@python-pillow.org>`_ email address.
 
 Preferred method of funds delivery
 ----------------------------------
