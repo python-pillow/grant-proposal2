@@ -31,7 +31,7 @@ Shortly after the release of Pillow 2.0, Christoph Gohlke gave permission for th
 Grant objective
 ---------------
 
-To fund, in advance, renewal of python-pillow.org for the maximum amount of time allowed by the registrar.
+To fund, in advance, renewal of python-pillow.org for the maximum period of time allowed by the registrar.
 
 Grant size
 ----------
