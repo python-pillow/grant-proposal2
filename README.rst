@@ -6,7 +6,7 @@ Proposal submitted to the Python Software Foundation Thursday Feb 9, 2017.
 Grant Proposal
 --------------
 
-Provide funding to renew python-pillow.org domain for maximum (allowed by directnic.com) length of 8 years.
+Provide funding to renew python-pillow.org domain for maximum (allowed by directnic.com) period of time of 8 years.
 
 Abstract
 ~~~~~~~~
