@@ -18,7 +18,7 @@ The **Python Imaging Library** is one of the oldest and most popular third party
 History
 ~~~~~~~
 
-Frustrated with the proliferation of third party repackagings of PIL containing ad hoc changes, none of which were available to download from the Python Package Index, on July 31, 2010 **Alex Clark created a fork of the Python Imaging Library** based on Hanno Schlicting's repackaging [4]_ and published the results to the Python Package Index as Pillow 1.0 [5]_.
+Frustrated with the proliferation of third party repackagings of PIL containing ad hoc changes, none of which were available to download from the Python Package Index, on July 31, 2010 **Alex Clark forked the Python Imaging Library** based on Hanno Schlicting's repackaging [4]_ and published the results to the Python Package Index as Pillow 1.0 [5]_.
 
 The ability to add additional development library paths to ``setup.py`` (e.g. 64 bit library and headers directories) and make releases quickly eventually led to widespread adoption of Pillow.
 
