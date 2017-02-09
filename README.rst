@@ -6,7 +6,7 @@ Proposal submitted to the Python Software Foundation Thursday Feb 9, 2017.
 Grant Proposal
 --------------
 
-Provide funding to **renew python-pillow.org domain** for maximum (allowed by directnic.com) period of time of 8 years.
+Provide funding to **renew python-pillow.org** for maximum [0]_ period of time of 8 years.
 
 Abstract
 ~~~~~~~~
@@ -58,6 +58,7 @@ And sent to::
     XXXX XXXXXXXX XX
     Bethesda, MD 20814
 
+.. [0] Allowed by DirectNIC.
 .. [1] http://en.wikipedia.org/wiki/Python_Imaging_Library
 .. [2] "Pillow has been downloaded 15,199,249 times!" — Via http://pypi.python.org/pypi/vanity.
 .. [3] The Python Wall of SuperPowers reports over 50% of popular packages have been ported: https://python3wos.appspot.com/.
