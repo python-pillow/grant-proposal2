@@ -1,7 +1,7 @@
 python-pillow.org
 =================
 
-Proposal submitted to the Python Software Foundation Thursday Feb 9, 2017.
+Proposal submitted to the Python Software Foundation Friday, February 10, 2017.
 
 Grant Proposal
 --------------
@@ -30,6 +30,10 @@ Milestones
 - For the first 3 years, the fork focused on packaging fixes only. In 2013, a Python 3 compatible pull request from Brian Crowell [7]_ was merged and released as Pillow 2.0.0.
 
 - Shortly after the release of Pillow 2.0, Christoph Gohlke gave permission for the Pillow project to use his Unofficial Windows Binaries for Python Extension Packages. [8]_.
+
+- As of early 2017, Pillow is developed, maintained and released quarterly by 7 organization members and many more contributors.
+
+.. image:: screenshot2.png
 
 Grant objective
 ---------------
