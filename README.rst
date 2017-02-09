@@ -20,13 +20,16 @@ History
 
 Frustrated with the proliferation of third party repackagings of PIL containing ad hoc changes, none of which were available to download from the Python Package Index, on July 31, 2010 **Alex Clark forked the Python Imaging Library** based on Hanno Schlicting's repackaging [4]_ and published the results to the Python Package Index as Pillow 1.0 [5]_.
 
-The ability to add additional development library paths to ``setup.py`` (e.g. 64 bit library and headers directories) and make releases quickly eventually led to widespread adoption of Pillow.
+Milestones
+++++++++++
 
-A little over a year later on 2011-09-08, Takayuki Shimizukawa [6]_ uploaded the first Windows (win32) eggs. Since then, every Pillow release included Windows eggs thanks to Takayuki. And on 2013-02-02, the first 64-bit Windows eggs (amd64) were uploaded to PyPI by Takayuki.
+- The ability to add additional development library paths to ``setup.py`` (e.g. 64 bit library and headers directories) and make releases quickly eventually led to widespread adoption of Pillow.
 
-For the first 3 years, the fork focused on packaging fixes only. In 2013, a Python 3 compatible pull request from Brian Crowell [7]_ was merged and released as Pillow 2.0.0.
+- A little over a year later on 2011-09-08, Takayuki Shimizukawa [6]_ uploaded the first Windows (win32) eggs. Since then, every Pillow release included Windows eggs thanks to Takayuki. And on 2013-02-02, the first 64-bit Windows eggs (amd64) were uploaded to PyPI by Takayuki.
 
-Shortly after the release of Pillow 2.0, Christoph Gohlke gave permission for the Pillow project to use his Unofficial Windows Binaries for Python Extension Packages. [8]_.
+- For the first 3 years, the fork focused on packaging fixes only. In 2013, a Python 3 compatible pull request from Brian Crowell [7]_ was merged and released as Pillow 2.0.0.
+
+- Shortly after the release of Pillow 2.0, Christoph Gohlke gave permission for the Pillow project to use his Unofficial Windows Binaries for Python Extension Packages. [8]_.
 
 Grant objective
 ---------------
