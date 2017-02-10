@@ -6,7 +6,7 @@ Proposal submitted to the Python Software Foundation Friday, February 10, 2017.
 Grant Proposal
 --------------
 
-Provide funding to **renew python-pillow.org** for maximum period of time of 8 years. [0]_
+Provide funding to **renew python-pillow.org** for maximum period of time of 8 years. [0]_ By doing so, we can ensure security issues can be reported discretely to `security@python-pillow.org` for the foreseeable future.
 
 Abstract
 ~~~~~~~~
