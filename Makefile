@@ -328,3 +328,7 @@ vagrant-up:
 	vagrant up --provider virtualbox
 vagrant-update:
 	vagrant box update
+
+# grant-proposal2
+pdf:
+	rst2pdf README.rst -o pillow-grant-proposal2.pdf
