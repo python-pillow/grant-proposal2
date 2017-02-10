@@ -31,6 +31,8 @@ Milestones
 
 - Shortly after the release of Pillow 2.0, Christoph Gohlke gave permission for the Pillow project to use his Unofficial Windows Binaries for Python Extension Packages. [8]_.
 
+- **In 2014 the first of 12 (at present) CVEs was reported. At the time, no formal mechanism to contact the Pillow team existed. In 2016, python-pillow.org was registered and a security email address was configured to send mail to the Pillow team.**
+
 - As of early 2017, Pillow is developed, maintained and released quarterly by 7 organization members and many more contributors.
 
 .. image:: screenshot2.png
