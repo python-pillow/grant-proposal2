@@ -40,14 +40,18 @@ Milestones
 Grant objective
 ---------------
 
-To fund, in advance, renewal of python-pillow.org for the maximum period of time allowed by the registrar. By doing so, we can ensure that security issues are handled discretely and professionally for the foreseeable future.
+To fund, in advance, renewal of python-pillow.org for the maximum period of time allowed by the registrar. By doing so, we can ensure that security issues are handled discretely and professionally for the foreseeable future. Additionally, to reimburse ACLARK.NET, LLC for initial expenses.
 
 Grant size
 ----------
 
-$91.44 USD total, based on registrar's shopping cart total:
+- $91.44 USD based on registrar's shopping cart total:
 
 .. image:: screenshot.png
+
+- $30.00 USD to reimburse ACLARK.NET, LLC for 2016 purchase and 2017 renewal.
+
+**Total $121.44 USD**
 
 Grant beneficiaries
 -------------------
