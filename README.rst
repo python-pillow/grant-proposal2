@@ -40,7 +40,7 @@ Milestones
 Grant objective
 ---------------
 
-To fund, in advance, renewal of python-pillow.org for the maximum period of time allowed by the registrar. By doing so, we can ensure that security issues are handled discretely and professionally for the forseeable future.
+To fund, in advance, renewal of python-pillow.org for the maximum period of time allowed by the registrar. By doing so, we can ensure that security issues are handled discretely and professionally for the foreseeable future.
 
 Grant size
 ----------
